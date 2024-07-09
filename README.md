@@ -1,4 +1,4 @@
-# home_task_day_2
+# Day 2 task
 
 Day 2 üçün task.
 
